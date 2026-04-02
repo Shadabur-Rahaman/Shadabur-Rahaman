@@ -147,51 +147,48 @@ Fourth-year **CS & Design** student at PES IT&M (VTU), working at the intersecti
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                            -->
+<!--                    ACHIEVEMENT MATRIX                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=320&height=35&lines=%F0%9F%8F%86+ACHIEVEMENT+MATRIX" alt="Achievement Matrix"/>
-</h2>
+## 🏆 ACHIEVEMENT MATRIX
 
 <div align="center">
 
-<!-- ── Trophies: all ranks shown; unlocks grow with your account ── -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6"
-  alt="GitHub Trophies"
-  onerror="this.style.display='none'"
-/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--   MILESTONE CARDS — pure markdown, zero external images    -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<br/><br/>
+| 🧠 | 🎭 | ⚡ | 🔬 |
+|:---:|:---:|:---:|:---:|
+| **LLM Fine-Tuner** | **Deepfake Slayer** | **100DaysOfCode** | **Paper Chaser** |
+| GPT-2 perplexity ↓ 40% | 94% cross-dataset acc | Active streak 🟢 | ArXiv daily 🔵 |
 
-<!-- ── Stats row — these ALWAYS render regardless of activity ── -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true"
-  height="170"
-  alt="GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=6"
-  height="170"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<!-- ── Streak — always renders even with 0 current streak ── -->
-<img
-  src="https://streak-stats.demolab.com?user=Shadabur-Rahaman&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=555555&stroke=00FFAA22&border_radius=12"
-  width="65%"
-  alt="GitHub Streak"
-/>
-
-</div>
+| 🎯 | 🛡️ | 📊 | 🚀 |
+|:---:|:---:|:---:|:---:|
+| **GfG160 Warrior** | **AI Ethics Builder** | **DailyMLDose** | **OSS Contributor** |
+| DSA mastery 🟢 | Responsible AI 🔵 | ML deep-dives 🟢 | Open source 🔵 |
 
 <br/>
 
-> 🔒 **Trophies unlock as you push code, earn stars & gain followers** — the stats cards always show your real-time data.
+<!-- ── GitHub Stats via github-readme-stats (cache-busted) ── -->
+
+![Shadabur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=6&cache_seconds=86400)
+
+<br/>
+
+<!-- ── Streak via demolab (most reliable streak host) ── -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shadabur-Rahaman&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=4A4A4A&border_radius=12)](https://git.io/streak-stats)
+
+<br/>
+
+<!-- ── Activity graph via github-readme-activity-graph ── -->
+
+[![Shadabur's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Shadabur-Rahaman&bg_color=0D1117&color=00FFAA&line=00FFFF&point=FFFFFF&area=true&area_color=003322&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 <br/>
 
@@ -336,57 +333,6 @@ Multi-stage deepfake detection pipeline trained on FaceShifter & NeuralTextures 
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>📊 SYSTEM TELEMETRY — GITHUB STATS</h2>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=percentile"
-  height="175"
-  alt="GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=8"
-  height="175"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<!-- streak-stats.demolab.com is the maintained replacement for the dead herokuapp domain -->
-<img
-  src="https://streak-stats.demolab.com?user=Shadabur-Rahaman&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=555555&stroke=00FFAA22&border_radius=12"
-  width="68%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 NEURAL ACTIVITY GRAPH
-
-<div align="center">
-
-[![Shadabur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadabur-Rahaman&bg_color=0D1117&color=00FFAA&line=00FFFF&point=FFFFFF&area=true&area_color=00FFAA&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
