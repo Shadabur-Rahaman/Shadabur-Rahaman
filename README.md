@@ -51,7 +51,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; ABOUT ME
+## `</>` &nbsp; ABOUT ME
 
 ```python
 #!/usr/bin/env python3
@@ -100,13 +100,21 @@ print(me)
 <!--                    GITHUB TROPHIES                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; ACHIEVEMENT MATRIX
+## `🏆` &nbsp; ACHIEVEMENT MATRIX
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies: shows all earned + unlocked ranks — grows as your account does -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies"/>
+
+<br/>
+
+<!-- Fallback stats always visible regardless of trophy count -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=10&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="160" alt="Extended GitHub Stats"/>
 
 </div>
+
+> 🔒 *Trophies unlock progressively as commits, stars, followers & PRs grow. Keep shipping!*
 
 <br/>
 
@@ -118,7 +126,7 @@ print(me)
 <!--                    TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp; NEURAL STACK — TECHNOLOGIES
+## `⚡` &nbsp; NEURAL STACK — TECHNOLOGIES
 
 <div align="center">
 
