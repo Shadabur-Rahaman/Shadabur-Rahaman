@@ -47,48 +47,98 @@
 <!--                       ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
-## `</>` &nbsp; ABOUT ME
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=220&height=35&lines=%3C%2F%3E+ABOUT+ME" alt="About Me"/>
+</h2>
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 #!/usr/bin/env python3
-# ╔══════════════════════════════════════════════════════╗
-# ║          SHADABUR_RAHAMAN.init()                    ║
-# ╚══════════════════════════════════════════════════════╝
+# ╔══════════════════════════════════════════╗
+# ║     SHADABUR_RAHAMAN . init ()          ║
+# ╚══════════════════════════════════════════╝
 
 class AIEngineer:
-    def __init__(self):
-        self.name         = "Shadabur Rahaman"
-        self.role         = "AI Engineer in Progress"
-        self.university   = "PES Institute of Technology & Management, Shimoga (VTU)"
-        self.year         = "4th Year — Computer Science & Design"
-        self.location     = "India 🇮🇳"
-        
-        self.core_domains = [
-            "🧠 Large Language Models & Fine-Tuning",
-            "🎭 Deepfake Detection (94% Cross-Dataset Accuracy)",
-            "🎨 Generative AI — GANs, VAEs, Diffusion Models",
-            "🛡️  AI Ethics, Safety & Media Authenticity",
-        ]
-        
-        self.currently    = {
-            "learning"    : ["Transformer Architectures", "Diffusion Models", "Multimodal AI"],
-            "building"    : ["Production Deepfake Detection API", "Custom LLM Fine-Tuning Pipelines"],
-            "researching" : ["Adversarial Robustness", "Synthetic Data Detection"],
-            "open_to"     : ["Research Collabs", "AI Engineering Roles", "OSS Contributions"],
-        }
-        
-        self.philosophy   = "Make AI smarter, safer, and aligned with human values 🚀"
+
+    name        = "Shadabur Rahaman"
+    role        = "AI Engineer in Progress"
+    university  = "PES IT&M Shimoga · VTU"
+    year        = "4th Year · CS & Design"
+    location    = "India 🇮🇳"
+
+    core_domains = [
+        "🧠  LLMs & Fine-Tuning",
+        "🎭  Deepfake Detection  · 94% acc",
+        "🎨  GenAI · GANs · VAEs · Diffusion",
+        "🛡️   AI Ethics & Media Authenticity",
+    ]
+
+    currently = {
+        "learning"    : ["Transformers",
+                         "Diffusion Models",
+                         "Multimodal AI"],
+        "building"    : ["Deepfake API",
+                         "LLM Pipelines"],
+        "researching" : ["Adversarial Robustness",
+                         "Synthetic Detection"],
+        "open_to"     : ["Research Collabs",
+                         "AI Eng Roles",
+                         "OSS"],
+    }
+
+    philosophy = "Make AI smarter, safer 🚀"
 
     def __str__(self):
-        return "Training models by day ☀️ | Chasing papers by night 🌙"
+        return (
+            "Training models by day ☀️\n"
+            "Chasing papers by night  🌙"
+        )
 
 me = AIEngineer()
 print(me)
 ```
+
+</td>
+<td valign="top" width="45%">
+
+<br/>
+
+**🧬 Who am I?**
+
+Fourth-year **CS & Design** student at PES IT&M (VTU), working at the intersection of **Generative AI** and **media authenticity**. I don't just implement models — I dissect them, understand failure modes, and push their limits.
+
+<br/>
+
+**⚡ Right now I'm...**
+
+| Mode | Focus |
+|------|-------|
+| 📖 **Learning** | Diffusion · Transformers |
+| 🔨 **Building** | Deepfake Detection API |
+| 🔬 **Researching** | Adversarial Robustness |
+| 🤝 **Open to** | Collabs & AI Roles |
+
+<br/>
+
+**🌍 Fun facts**
+
+```
+ ∘ Reduced GPT-2 perplexity by 40%
+ ∘ Deepfake detector @ 94% accuracy
+ ∘ #100DaysOfCode · GfG160 active
+ ∘ Reads ArXiv papers for breakfast
+```
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -100,21 +150,48 @@ print(me)
 <!--                    GITHUB TROPHIES                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `🏆` &nbsp; ACHIEVEMENT MATRIX
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=320&height=35&lines=%F0%9F%8F%86+ACHIEVEMENT+MATRIX" alt="Achievement Matrix"/>
+</h2>
 
 <div align="center">
 
-<!-- Trophies: shows all earned + unlocked ranks — grows as your account does -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies"/>
+<!-- ── Trophies: all ranks shown; unlocks grow with your account ── -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6"
+  alt="GitHub Trophies"
+  onerror="this.style.display='none'"
+/>
 
-<br/>
+<br/><br/>
 
-<!-- Fallback stats always visible regardless of trophy count -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=10&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="160" alt="Extended GitHub Stats"/>
+<!-- ── Stats row — these ALWAYS render regardless of activity ── -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true"
+  height="170"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=6"
+  height="170"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<!-- ── Streak — always renders even with 0 current streak ── -->
+<img
+  src="https://streak-stats.demolab.com?user=Shadabur-Rahaman&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=555555&stroke=00FFAA22&border_radius=12"
+  width="65%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
-> 🔒 *Trophies unlock progressively as commits, stars, followers & PRs grow. Keep shipping!*
+<br/>
+
+> 🔒 **Trophies unlock as you push code, earn stars & gain followers** — the stats cards always show your real-time data.
 
 <br/>
 
@@ -126,7 +203,9 @@ print(me)
 <!--                    TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `⚡` &nbsp; NEURAL STACK — TECHNOLOGIES
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=400&height=35&lines=%E2%9A%A1+NEURAL+STACK+%E2%80%94+TECHNOLOGIES" alt="Neural Stack"/>
+</h2>
 
 <div align="center">
 
@@ -270,17 +349,30 @@ Multi-stage deepfake detection pipeline trained on FaceShifter & NeuralTextures 
 <!--                    GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 SYSTEM TELEMETRY — GITHUB STATS
+<h2>📊 SYSTEM TELEMETRY — GITHUB STATS</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=percentile"
+  height="175"
+  alt="GitHub Stats"
+/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=15&langs_count=8" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=8"
+  height="175"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadabur-Rahaman&theme=matrix&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=C9D1D9&stroke=00FFAA" width="70%"/>
+<!-- streak-stats.demolab.com is the maintained replacement for the dead herokuapp domain -->
+<img
+  src="https://streak-stats.demolab.com?user=Shadabur-Rahaman&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=555555&stroke=00FFAA22&border_radius=12"
+  width="68%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
