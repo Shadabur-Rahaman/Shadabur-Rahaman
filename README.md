@@ -215,7 +215,7 @@ Fourth-year **CS & Design** student at PES IT&M (VTU), working at the intersecti
 ### 🧬 Languages & Dev Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,docker,linux,vscode,jupyter&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,docker,linux,vscode,jupyter&theme=dark&perline=8" />
 </p>
 
 ### ☁️ Cloud & MLOps
