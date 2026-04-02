@@ -1,182 +1,449 @@
-# Hi there, I'm Shadabur Rahaman 👋
-
 <div align="center">
-  
-### AI Engineer in Progress | Focused on Generative AI & Deepfake Detection
 
-*Building intelligent systems that understand, create, and verify*
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=SHADABUR%20RAHAMAN&fontSize=60&fontColor=00FFFF&animation=twinkling&desc=AI%20Engineer%20%7C%20Deepfake%20Detection%20%7C%20Generative%20AI&descSize=18&descAlignY=75&stroke=00FFFF&strokeWidth=2" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=700&height=70&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%94%AC+Deepfake+Detection+%40+94%25+Accuracy;%F0%9F%A7%A0+Fine-Tuning+LLMs+for+Niche+Domains;%E2%9A%A1+Generative+AI+%7C+GANs+%7C+Diffusion+Models;%F0%9F%9B%A1%EF%B8%8F+Responsible+AI+%7C+Media+Authenticity" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL BADGES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shadabur_Rahaman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1929)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-@ShadaburAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A1929)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1929)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1929)](https://YOUR_PORTFOLIO)
+[![GitHub](https://img.shields.io/badge/GitHub-@Shadabur--Rahaman-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1929)](https://github.com/Shadabur-Rahaman)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shadabur-Rahaman&color=00FFFF&style=for-the-badge&label=NEURAL+VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/Shadabur-Rahaman?label=Followers&style=for-the-badge&color=00FFFF&labelColor=0A1929&logo=github)](https://github.com/Shadabur-Rahaman?tab=followers)
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   NEURAL NETWORK DIVIDER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I'm a fourth-year Computer Science & Design student at PES Institute of Technology & Management, Shimoga (VTU), working at the intersection of **generative AI** and **media authenticity verification**. My journey is driven by a fascination with how machines learn to create—and how we can ensure they do so responsibly.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Currently, I'm deep in the trenches of:
-- **Large Language Models** – Fine-tuning GPT architectures for specialized domains
-- **Deepfake Detection** – Developing CNN-based systems to combat synthetic media manipulation
-- **Generative Architectures** – Exploring GANs, VAEs, and Autoencoders for creative AI applications
-- **AI Ethics & Safety** – Building systems that are not just powerful, but trustworthy
+<br/>
 
-What sets my approach apart is the blend of **theoretical depth** and **hands-on experimentation**. I don't just implement models—I dissect them, understand their failure modes, and push their boundaries.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🎯 Current Focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%"/>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; ABOUT ME
 
 ```python
-current_goals = {
-    "learning": ["Transformer architectures", "Diffusion models", "Multimodal AI"],
-    "building": ["Production-ready deepfake detection API", "Custom LLM fine-tuning pipelines"],
-    "researching": ["Adversarial robustness in generative models", "Synthetic data detection"],
-    "contributing": ["Open-source AI tools", "ML education content"]
-}
+#!/usr/bin/env python3
+# ╔══════════════════════════════════════════════════════╗
+# ║          SHADABUR_RAHAMAN.init()                    ║
+# ╚══════════════════════════════════════════════════════╝
+
+class AIEngineer:
+    def __init__(self):
+        self.name         = "Shadabur Rahaman"
+        self.role         = "AI Engineer in Progress"
+        self.university   = "PES Institute of Technology & Management, Shimoga (VTU)"
+        self.year         = "4th Year — Computer Science & Design"
+        self.location     = "India 🇮🇳"
+        
+        self.core_domains = [
+            "🧠 Large Language Models & Fine-Tuning",
+            "🎭 Deepfake Detection (94% Cross-Dataset Accuracy)",
+            "🎨 Generative AI — GANs, VAEs, Diffusion Models",
+            "🛡️  AI Ethics, Safety & Media Authenticity",
+        ]
+        
+        self.currently    = {
+            "learning"    : ["Transformer Architectures", "Diffusion Models", "Multimodal AI"],
+            "building"    : ["Production Deepfake Detection API", "Custom LLM Fine-Tuning Pipelines"],
+            "researching" : ["Adversarial Robustness", "Synthetic Data Detection"],
+            "open_to"     : ["Research Collabs", "AI Engineering Roles", "OSS Contributions"],
+        }
+        
+        self.philosophy   = "Make AI smarter, safer, and aligned with human values 🚀"
+
+    def __str__(self):
+        return "Training models by day ☀️ | Chasing papers by night 🌙"
+
+me = AIEngineer()
+print(me)
 ```
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🤖 GPT-2 Domain-Specific Fine-Tuning
-**Custom Language Model for Niche Knowledge Domains**
+<br/>
 
-Fine-tuned GPT-2 on specialized corpus data with ChatGPT-style prompt engineering wrappers. Implemented custom tokenization strategies, training loops, and inference optimization for domain-specific text generation.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB TROPHIES                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-**Tech Stack:** `PyTorch` `Transformers` `HuggingFace` `Python`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; ACHIEVEMENT MATRIX
 
-**Key Achievements:**
-- Reduced perplexity by 40% on domain-specific validation set
-- Implemented efficient prompt engineering patterns for consistent outputs
-- Optimized inference latency for real-time applications
+<div align="center">
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shadabur-Rahaman&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp; NEURAL STACK — TECHNOLOGIES
+
+<div align="center">
+
+### ⚡ Core AI / ML Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv&theme=dark&perline=8" />
+</p>
+
+### 🧬 Languages & Dev Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,docker,linux,vscode,jupyter&theme=dark&perline=8" />
+</p>
+
+### ☁️ Cloud & MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,github,docker&theme=dark&perline=8" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- Animated tech badges -->
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Pipelines-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-GenAI-FF6B6B?style=for-the-badge)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-MLOps-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SKILL BARS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧮 COMPETENCY SPECTRUM
+
+```
+  MACHINE LEARNING & DEEP LEARNING
+  ████████████████████████████████████████████  95% ⚡
+
+  COMPUTER VISION & CNNs
+  ██████████████████████████████████████████░░  92% 🔍
+
+  GENERATIVE AI  (GANs · VAEs · Diffusion)
+  █████████████████████████████████████████░░░  90% 🎨
+
+  NLP & LARGE LANGUAGE MODELS
+  ████████████████████████████████████████░░░░  88% 🗣️
+
+  MODEL FINE-TUNING & OPTIMIZATION
+  ███████████████████████████████████████░░░░░  87% ⚙️
+
+  MLOPS & PRODUCTION DEPLOYMENT
+  ██████████████████████████████████░░░░░░░░░░  80% 🚀
+
+  AI ETHICS & RESPONSIBLE AI
+  █████████████████████████████████████████░░░  85% 🛡️
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 MISSION LOGS — FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 GPT-2 Domain Fine-Tuning
+> *Custom Language Model for Niche Domains*
+
+Fine-tuned GPT-2 on specialized corpora with ChatGPT-style prompt wrappers. Custom tokenization strategies, training loops & inference optimization.
+
+**↓ 40% Perplexity** on domain validation set  
+**⚡ Real-time** inference latency optimization  
+**🔧 Prompt engineering** patterns for consistent output
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadabur-Rahaman)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎭 Deepfake Detection System
-**CNN-Based Synthetic Media Verification**
+> *CNN-Based Synthetic Media Verification*
 
-Developed a multi-stage deepfake detection pipeline trained on FaceShifter and NeuralTextures datasets. Architected custom CNN models with attention mechanisms to identify subtle artifacts in manipulated videos and images.
+Multi-stage deepfake detection pipeline trained on FaceShifter & NeuralTextures datasets. Custom CNN + attention mechanisms to expose manipulation artifacts.
 
-**Tech Stack:** `TensorFlow` `Keras` `OpenCV` `Python`
+**📊 94% Accuracy** on cross-dataset validation  
+**🎥 Real-time** video frame analysis pipeline  
+**🛡️ Adversarial** robustness against gen techniques
 
-**Key Achievements:**
-- Achieved 94% accuracy on cross-dataset validation
-- Implemented real-time video frame analysis pipeline
-- Researched adversarial robustness against generation techniques
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
----
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadabur-Rahaman)
 
-## 💻 Technical Arsenal
-
-### Core Competencies
-
-```
-🧬 Machine Learning & Deep Learning
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95%
-
-🎨 Generative AI (GANs, VAEs, Diffusion)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-
-🗣️ Large Language Models & NLP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 88%
-
-🔍 Computer Vision & CNNs
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 92%
-
-⚡ Model Fine-Tuning & Optimization
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 87%
-```
-
-### Technologies & Frameworks
-
-**AI/ML Stack:**
-- **Frameworks:** PyTorch, TensorFlow, Keras, HuggingFace Transformers
-- **Specialized:** LangChain, OpenAI API, Stable Diffusion
-- **MLOps:** Weights & Biases, MLflow, DVC
-
-**Programming & Tools:**
-- **Languages:** Python, SQL, C++
-- **Data:** NumPy, Pandas, Scikit-learn
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Development:** Git, Docker, Jupyter, VS Code
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadabur-Rahaman&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🏆 Continuous Learning Journey
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Active Challenges & Commitments
+<br/>
 
-**#100DaysOfCode** | Building AI projects daily  
-**GfG160** | Mastering data structures & algorithms  
-**#DailyMLDose** | Deep-diving into ML architectures
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-*Recent topics covered: Autoencoders for anomaly detection, GAN training stability, VAE latent space manipulation, Transformer attention mechanisms*
-
-### Certifications
-
-🎓 **SQL – The Complete Introduction to SQL Programming** | Udemy  
-🎓 **Introduction to ChatGPT – Essential Skills for Getting Started** | Udemy  
-🎓 **Introduction to RPA** | UiPath Academy
-
----
-
-## 🌟 What Drives Me
-
-> "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" — Isaac Asimov
-
-I believe the future of AI isn't just about making models bigger—it's about making them **smarter, safer, and more aligned with human values**. My work in deepfake detection stems from this conviction: as AI becomes more powerful at creation, we need equally powerful tools for verification and trust.
-
-I'm particularly energized by:
-- **Responsible AI Development** – Building systems that are transparent and explainable
-- **Bridging Research & Production** – Taking cutting-edge papers to deployable solutions
-- **Knowledge Sharing** – Documenting my learning journey to help others climb faster
-- **Collaborative Innovation** – Contributing to open-source AI ecosystems
-
----
-
-## 📫 Let's Connect
-
-I'm always excited to discuss AI research, collaborate on projects, or chat about the latest in generative models and synthetic media detection.
+## 📊 SYSTEM TELEMETRY — GITHUB STATS
 
 <div align="center">
 
-**Open to:**  
-🔹 Research Collaborations  
-🔹 AI Engineering Opportunities  
-🔹 Open Source Contributions  
-🔹 Technical Discussions
+<img src="https://github-readme-stats.vercel.app/api?username=Shadabur-Rahaman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabur-Rahaman&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=15&langs_count=8" height="180"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadabur-Rahaman&theme=matrix&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=C9D1D9&stroke=00FFAA" width="70%"/>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 NEURAL ACTIVITY GRAPH
 
 <div align="center">
 
-### 💡 "Training models by day, chasing papers by night"
+[![Shadabur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadabur-Rahaman&bg_color=0D1117&color=00FFAA&line=00FFFF&point=FFFFFF&area=true&area_color=00FFAA&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shadabur-Rahaman&color=58A6FF&style=for-the-badge)
+</div>
 
-⭐ *If you find my work interesting, consider starring some repositories!*
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 THE DATA SNAKE FEEDS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadabur-Rahaman/Shadabur-Rahaman/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadabur-Rahaman/Shadabur-Rahaman/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shadabur-Rahaman/Shadabur-Rahaman/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ⚡ *To enable the snake animation, add this GitHub Action to your profile repo: `.github/workflows/snake.yml`*
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              CONTINUOUS LEARNING                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 ACTIVE LEARNING PROTOCOLS
+
+<div align="center">
+
+| Challenge | Status | Focus |
+|-----------|--------|-------|
+| **#100DaysOfCode** | 🟢 Active | Building AI projects daily |
+| **GfG160** | 🟢 Active | DSA & Algorithms mastery |
+| **#DailyMLDose** | 🟢 Active | Deep-diving ML architectures |
+| **Paper Reading** | 🔵 Ongoing | ArXiv AI/ML latest research |
+
+</div>
+
+<br/>
+
+> **Recent deep-dives:** Autoencoders for anomaly detection · GAN training stability · VAE latent space manipulation · Transformer attention mechanisms · Diffusion model internals
+
+<br/>
+
+### 🎓 CREDENTIALS
+
+<div align="center">
+
+![Udemy](https://img.shields.io/badge/SQL_Complete_Introduction-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Intro_to_ChatGPT-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![UiPath](https://img.shields.io/badge/Intro_to_RPA-UiPath_Academy-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   QUOTE / PHILOSOPHY                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💡 CORE DIRECTIVE
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "The most exciting phrase in science is not 'Eureka!'          ║
+║    but 'That's funny...' "  —  Isaac Asimov                      ║
+║                                                                  ║
+║   The future of AI isn't about making models BIGGER.            ║
+║   It's about making them SMARTER, SAFER & MORE ALIGNED.         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1929" />
+</a>
+&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-Tech_Thoughts-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A1929" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1929" />
+</a>
+&nbsp;
+<a href="https://YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1929" />
+</a>
+
+<br/><br/>
+
+**🔹 Open to Research Collaborations**  
+**🔹 AI Engineering Opportunities**  
+**🔹 Open Source Contributions**  
+**🔹 Technical Discussions**
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER BANNER                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Training%20models%20by%20day%20%E2%98%80%EF%B8%8F%20%7C%20Chasing%20papers%20by%20night%20%F0%9F%8C%99&fontSize=16&fontColor=00FFFF&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shadabur-Rahaman&color=00FFAA&style=for-the-badge&label=NEURAL+VISITORS)
+&nbsp;
+⭐ *If you find my work useful, consider starring some repositories!*
 
 </div>
